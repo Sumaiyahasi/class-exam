@@ -1,0 +1,65 @@
+/* positon */
+.box {
+    position: relative;
+    border: 3px solid black;
+}
+.box0 {
+    position: absolute;
+    top: 50px;
+    left: 50px
+    width: 100px
+    background-color: brown;
+}
+.box1 {
+    position: fixed;
+    top: 200px;
+    left: 200px;
+    width: 100px;
+    background-color: aqua;
+}
+.box2{
+    position: relative;
+    top: 300px;
+    left: 300px;
+    width: 100px;
+    background-color: aqua;
+}
+.box3 {
+    position: static;
+    top: 400px;
+    left: 400px;
+    width: 100px;
+    background-color: aqua;
+}
+.box4 {
+position: static;
+top: 500px;
+left: 500px;
+width: 100px;
+background-color: aqua;
+
+}
+/* position end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
